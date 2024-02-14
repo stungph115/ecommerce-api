@@ -12,7 +12,7 @@ const transporter = nodemailer.createTransport({
     port: 465,
     secure: true,
     auth: {
-        user: "rominage.115@gmail.com",
+        user: "gmail@gmail.com",
         pass: "your_app_password",
     },
 })
